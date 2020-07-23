@@ -22,14 +22,8 @@ const About = () => {
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
                 Hi there! I am <strong>&nbsp;Ishmaeel Elijah</strong>
-                <br />A passionate programmer and a Coach, born and brought up in . I am a Full Stack Web Developer with React.js, Django, Express.js, Node.js, and PostgreSQL as my tech stack.
-                <br />
-                In 2019, I successfully completed my Engineering with specialization in 'Electronics and Telecommunication'.
-                <br />
-                Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
-                <br />
-                Along with that, I also help people as a COACH on their journey of becoming a professional programmer. I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.
-                <br /> <br />
+                I am a gamer and a tech geek so as a gamer and tech geek I keep myself updated with the latest tech news and everything i need to know in ordered to perform my coding.I love people and i am very interactive and friendly.I can easily adapt to unknown environments and be comfortable in that environment. I love coding and as a coder i want to be able to write my own code one day and that is what i am currently working on ,on my own.Coding is used in our everyday life and for me to be part of the people that provide the code for the world makes me very happy because i then know that i have done something good for the world and that my code will help millions of people <br></br>
+                The place where i got into tech first started in high school , I wanted to find out how people make the app we use and why does it gives us error or fails and then when i finished high school i decided that i was going to research more about the tech world and at the time i finished high school i have already become a tech geek and i was in love with teach but the only missing thing that i was lacking was coding so that is when i decided to do a short course and the join Life Choice academy
                 <Col className="d-flex justify-content-center flex-wrap">
                   <div>
                     <a href="#contact">
