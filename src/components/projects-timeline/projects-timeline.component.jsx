@@ -69,9 +69,6 @@ export default function TimeLine() {
                 </Accordion>
               </div>
               <div className="d-flex justify-content-between flex-nowrap text-center">
-                <UrlButton href="https://smart-face-detect-app.herokuapp.com/" target="_blank">
-                  SEE LIVE
-                </UrlButton>
                 <UrlButton href="https://github.com/akjha96/Smart_Brain" target="_blank">
                   SOURCE CODE
                 </UrlButton>
